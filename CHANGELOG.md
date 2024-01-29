@@ -1,4 +1,4 @@
-# Version history
+  Version history
 
 We follow [Semantic Versions](https://semver.org/) since the `0.1.0` release.
 We used to have incremental versioning before `0.1.0`.
@@ -1523,3 +1523,4 @@ There are no new features introduced.
 ## Version 0.0.1
 
 - Initial release
+ 
